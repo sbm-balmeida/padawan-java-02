@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author beatr
+ *
+ */
+module bytebank {
+}
